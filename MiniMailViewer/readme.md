@@ -1,3 +1,8 @@
+Tải file cần thiết (download file):
+- MailViewer2025.exe
+- imap_config.json
+  Có thể edit file json nếu có bất kì imap nào sai (Can edit json file if any imap is wrong)
+  
 Bước 1: Nhập email:pass hoặc email|pass vào ô Data
 
 Bước 2: Sau đó click readmail để đọc thư
