@@ -1,2 +1,1 @@
-# MailViewerShare
-Share some tools about mail viewer - mail reader
+#Để tải bản mới nhất các bác xem tại: https://github.com/HungHT1890/MailViewerShare/releases
